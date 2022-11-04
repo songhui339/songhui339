@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @songhui339
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+songhui339/songhui339 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7E69FE&width=435&lines=Hi+there%2C+I'm+Songhui+Choi;Nice+to+meet+you+%3A-))](https://git.io/typing-svg)
